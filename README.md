@@ -3,7 +3,7 @@ Repositório para melhor organização de arquivos e criação de projetos relac
 
 # Desafios e Projetos do Curso
 
-• Desafio 1 - [Desafio das Mensagens] (https://leandro-torres.io/curso-em-video-html-css/desafios/d001/desafio-mensagens.html)
+• Desafio 1 - [Desafio das Mensagens] ()
 <p></p>
 • Desafio 2 -
 <p></p>
