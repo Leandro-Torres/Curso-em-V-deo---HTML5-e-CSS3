@@ -3,7 +3,7 @@ Repositório para melhor organização de arquivos e criação de projetos relac
 
 # Desafios e Projetos do Curso
 
-• Desafio 1 - [Desafio das Mensagens] (https://github.com/Leandro-Torres/Curso-em-V-deo---HTML5-e-CSS3/blob/main/desafios/d001/desafio%20das%20mensagens.html)
+• Desafio 1 - [Desafio das Mensagens] (https://github.com/Leandro-Torres/Curso-em-V-deo---HTML5-e-CSS3/blob/876fec1bcc4b594b278b7048baebbbba560814a7/desafios/d001/desafio-mensagens.html)
 <p></p>
 • Desafio 2 -
 <p></p>
